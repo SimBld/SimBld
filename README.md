@@ -9,4 +9,4 @@ Ma mission ? Maîtriser React et Java au maximum de mes capacités.
 - 🔭 Je bosse sur des projets personnels super cool en React.
 - 🌱 J'apprends chaque jour quelque chose de nouveau en Java et JavaScript.
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&theme=juicyfresh&row=1&column=6&margin-w=25&margin-h=25)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&theme=juicyfresh&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
