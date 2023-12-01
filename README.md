@@ -10,3 +10,10 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 - 🌱 J'apprends chaque jour quelque chose de nouveau.
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&no-frame=true&no-bg=true&theme=juicyfresh&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### Langages et Outils:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
