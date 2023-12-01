@@ -18,4 +18,4 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
-![simbld's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=onedark)
+![simbld's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbld&no-frame=true&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&no-frame=true&layout=compact&theme=onedark)
