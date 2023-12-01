@@ -9,7 +9,7 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 - 🔭 Je bosse sur des projets personnels en parallèle des quêtes de la wild code school.
 - 🌱 J'apprends chaque jour quelque chose de nouveau.
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&no-frame=true&no-bg=true&theme=juicyfresh&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&no-frame=true&no-bg=true&theme=darkhub&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Langages et Outils:
@@ -18,4 +18,4 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
-![simbld's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbld&no-frame=true&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&no-frame=true&layout=compact&theme=onedark)
+![simbld's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=darkhub) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=darkhub)
