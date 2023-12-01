@@ -14,7 +14,7 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 
 ### Langages et Outils:
 
-<a  href="https://icons8.com/icon/lTKW3iI3wIT0/java">Java</a> icon by <a href="https://icons8.com">Icons8</a>" width="100" height="100">
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 
 
 ![simbld's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical)
