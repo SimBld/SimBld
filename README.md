@@ -14,7 +14,7 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 
 ### Langages et Outils:
 
-<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="94" height="94" src="https://img.icons8.com/arcade/94/javascript.png" alt="javascript"/> <img width="94" height="94" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/94/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/> <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="94" height="94" src="https://img.icons8.com/arcade/94/javascript.png" alt="javascript"/> <img width="94" height="94" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/94/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/> <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/> <img width="94" height="94" src="https://img.icons8.com/fluency/94/node-js.png" alt="node-js"/>
 
 
 ![simbld's GitHub stats](https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical)
