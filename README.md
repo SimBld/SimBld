@@ -11,7 +11,7 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 - 🔭 Je bosse sur des projets personnels en parallèle des quêtes de la wild code school.
 - 🌱 J'apprends chaque jour quelque chose de nouveau.
 </p>
-<br>
+
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&no-frame=true&no-bg=true&theme=darkhub&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
 
