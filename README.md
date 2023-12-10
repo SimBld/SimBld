@@ -24,7 +24,7 @@ Ma mission ? Maîtriser javascript coté front et back, et Java au maximum de me
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
