@@ -12,9 +12,7 @@ Ma mission ? Maîtriser javascript coté front et back a mon maximum, et comme j
 - 🌱 J'apprends chaque jour quelque chose de nouveau.
 </p>
 
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&no-frame=true&no-bg=true&theme=darkhub&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### Langages et Outils:
 
@@ -30,12 +28,8 @@ Ma mission ? Maîtriser javascript coté front et back a mon maximum, et comme j
 <img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-
-
 </p>
-<br>
 <p align="center">
   <img width="337" height="200" src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" /> &nbsp;
   <img width="337" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
