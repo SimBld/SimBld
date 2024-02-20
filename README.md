@@ -32,24 +32,10 @@ Ma mission ? Maîtriser javascript coté front et back a mon maximum, et comme j
 <img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" /><img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical" alt="Top Langs" />
+  <img width="337" height="200" src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" /> &nbsp;
+  <img width="337" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
