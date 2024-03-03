@@ -62,5 +62,6 @@ Ma mission ? Maîtriser javascript coté front et back a mon maximum, et comme j
 </p>
 <p align="center">
   <img width="337" height="200" src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" /> &nbsp;
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
   <img width="337" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical" alt="Top Langs" />
 </p>
