@@ -2,11 +2,10 @@
 
 ### Salut, c'est moi Sim ! 👋
 
-Actuellement, je revisite la formation dev web de la Wild, repartant de zéro, 
+Actuellement, je revisite la formation dev web de la Wild, repartant de zéro mais avec les bonnes pratiques, 
 et me transformant en un véritable guerrier du code^^. 
-J'ai failli abandonner car je ne suivais pas le rythme de la formation, 
-mais me voilà quelques mois plus tard, outils en main, plus déterminé que jamais. 
-Ma mission ? Maîtriser javascript coté front et back a mon maximum, et comme j'adore autant typescript que Java pour le back, Nest est devenu mon outil du moment, que j'aime bien associé a next pour le front, j'adore ce combo :)
+ 
+Ma mission ? Progresser en continue sur Java que j'adore, Javascript et python aussi, chacun pour une raison particulière
 
 - 🔭 Je bosse sur des projets personnels en parallèle des quêtes de la wild code school.
 - 🌱 J'apprends chaque jour quelque chose de nouveau.
