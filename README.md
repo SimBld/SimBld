@@ -1,14 +1,5 @@
 <p align="center">
-
-### Salut, c'est moi Sim ! 👋
-
-Actuellement, je revisite la formation dev web de la Wild, repartant de zéro mais avec les bonnes pratiques, 
-et me transformant en un véritable guerrier du code^^. 
- 
-Ma mission ? Progresser en continue sur Java que j'adore, Javascript et python aussi, chacun pour une raison particulière
-
-- 🔭 Je bosse sur des projets personnels en parallèle des quêtes de la wild code school.
-- 🌱 J'apprends chaque jour quelque chose de nouveau.
+<img src="https://raw.githubusercontent.com/LingDong-/shan-shui-inf/master/screenshots/screen002.jpg"/p>
 </p>
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simbld&no-frame=true&no-bg=true&theme=darkhub&row=1&column=6&margin-w=50&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
