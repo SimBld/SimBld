@@ -24,7 +24,7 @@
 <img width="37" height="37" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/37/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo"/>
 <img width="37" height="37" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/37/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-shadow-tal-revivo.png" alt="external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-shadow-tal-revivo"/>
 <img width="37" height="37" src="https://img.icons8.com/fluency/37/tailwind_css.png" alt="tailwind_css"/> 
-<img width="37" height="37" src="https://img.icons8.com/color/37/vite.png" alt="vite"/> 
+<img width="37" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img width="37" height="37" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/37/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/> 
 <img width="37" height="37" src="https://img.icons8.com/color/37/kali-linux.png" alt="kali-linux"/>
 <img width="37" height="37" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/37/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png" alt="external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo"/> 
