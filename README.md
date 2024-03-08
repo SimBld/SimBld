@@ -7,10 +7,11 @@
 ### Langages et Outils:
 <br>
 <p align="left">
-<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+
+<img width="30" height="30" src="https://img.icons8.com/arcade/30/javascript.png" alt="javascript"/>
 <img width="30" height="30" src="https://img.icons8.com/3d-fluency/30/python.png" alt="python"/> 
 <img width="30" height="30" src="https://img.icons8.com/3d-fluency/30/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/>
 &emsp;&emsp;&emsp;&emsp;
 <img width="30" height="30" src="https://img.icons8.com/color/30/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  
 <img width="30" height="30" src="https://img.icons8.com/color/30/intellij-idea.png" alt="intellij-idea"/>
@@ -26,9 +27,9 @@
 <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png"/> 
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
-   <br>
-<img width="30" height="30" src="https://img.icons8.com/arcade/30/javascript.png" alt="javascript"/>
-<img width="30" height="30" src="https://img.icons8.com/officel/30/express-js.png" alt="express-js"/> 
+      <br><br>
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img width="30" height="30" src="https://img.icons8.com/color/30/nestjs.png" alt="nestjs"/> 
 <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png"/>
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 &emsp;&emsp;&emsp;&emsp;
@@ -46,11 +47,11 @@
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-    <br>
+      <br><br>
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width="30" height="30" src="https://img.icons8.com/color/30/nestjs.png" alt="nestjs"/> 
-<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/>
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+<img width="30" height="30" src="https://img.icons8.com/officel/30/express-js.png" alt="express-js"/> 
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 &emsp;&emsp;&emsp;&emsp; &emsp;  &emsp; 
 <img width="30" height="30" src="https://img.icons8.com/color/30/filezilla.png" alt="filezilla"/>
 <img width="30" height="30" src="https://img.icons8.com/color/30/heroku.png" alt="heroku"/>
@@ -60,7 +61,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 </p>
-
 <p align="center">
   <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" /> &nbsp;
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
