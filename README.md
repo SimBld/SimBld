@@ -10,6 +10,7 @@
 <img width="24" height="24" src="https://img.icons8.com/arcade/24/javascript.png" alt="javascript"/>
 <img width="24" height="24" src="https://img.icons8.com/3d-fluency/24/python.png" alt="python"/> 
 <img width="24" height="24" src="https://img.icons8.com/3d-fluency/24/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="24" height="24" src="http://rust-lang.org/logos/rust-logo-32x32.png" />
 <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/>
 &emsp;
 <img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -42,5 +43,5 @@
 <p align="center">
   <img width="500" height="260" src="https://github-readme-stats.vercel.app/api?username=simbld&show_icons=true&theme=radical" alt="simbld's GitHub stats" /> &nbsp;
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-  <img width="450" height="260"src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&layout=compact&theme=radical" alt="Top Langs" />
+  <img width="1000" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbld&theme=radical" alt="Top Langs" /> &nbsp;
 </p>
