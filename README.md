@@ -12,7 +12,7 @@
 <img width="24" height="24" src="https://img.icons8.com/3d-fluency/24/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 <img width="24" height="24" src="http://rust-lang.org/logos/rust-logo-32x32.png" />
 <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;
 <img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img width="24" height="24" src="https://img.icons8.com/color/24/kali-linux.png" alt="kali-linux"/>
 <img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" />
